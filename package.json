@@ -1,0 +1,14 @@
+{
+  "name": "migrate-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "bin": {
+    "migrate-it": "index.mjs"
+  },
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
